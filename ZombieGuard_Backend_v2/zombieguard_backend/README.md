@@ -70,7 +70,7 @@ OUTPUT
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-repo>/zombieguard
+git clone https://github.com/Asterioxer/ZombieGuard_Insiders.git
 cd zombieguard
 
 # 2. Install all dependencies
