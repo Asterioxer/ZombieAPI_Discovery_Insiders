@@ -120,6 +120,10 @@ ZombieGuard-By-Team-Insiders/
 Ensure you have **Python 3.10+** and `pip` installed.
 
 ### 2. Setup Dependencies
+Clone the repository:
+```bash
+git clone https://github.com/Asterioxer/ZombieGuard_Insiders.git
+```
 Navigate into the backend project directory and install the required modules:
 ```bash
 cd ZombieGuard_Backend_v2/zombieguard_backend
